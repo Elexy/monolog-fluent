@@ -24,10 +24,5 @@
 	},
 	"autoload": {
 		"psr-0": {"Nrk\\Fluent\\Monolog": "src/"}
-	},
-	"extra": {
-		"branch-alias": {
-			"dev-master": "0.1.x-dev"
-		}
 	}
 }
